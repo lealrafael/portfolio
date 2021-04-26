@@ -70,16 +70,6 @@ article{
     background-image: url('assets/img/backgroundphotorafael.png');
     background-size: cover;
 }
-h2{
-    font-family: 'Press Start 2P', sans-serif;
-    color: #fff;
-    text-shadow: 3px 3px 0px #000;
-    font-size: 20;
-    display: custom;
-    text-align: left;
-    padding-left: 70px;
-    margin-bottom: 40px;
-}
 .btndown{
     background-color: #F25A70;
     box-shadow: 5px 5px 0px #000000;
