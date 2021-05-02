@@ -14,12 +14,6 @@ header{
     height: 80px;
     align-items: center;
 }   
-h1{
-    font-family: 'Press Start 2P', sans-serif;
-    color: #fff;
-    text-shadow: 5px 5px 0px #000000;
-    font-size: 25px;
-}
 a{
     display: inline-flex;
     align-items: center;
@@ -56,20 +50,6 @@ a::before{
 nav{
     text-align: right;
 }
-article{
-    text-align: center;
-    background-color: #aaa9a9;
-    width: 500px;
-    height: 100px;
-    text-decoration: none;
-    box-shadow: 5px 5px 0px #000;
-    display: block;
-    margin-top: 10px;
-    margin-bottom: 30px;
-    margin-left: 30px;
-    background-image: url('assets/img/backgroundphotorafael.png');
-    background-size: cover;
-}
 .btndown{
     background-color: #F25A70;
     box-shadow: 5px 5px 0px #000000;
@@ -78,9 +58,9 @@ article{
     line-height: 20px;
     padding: 15px 25px;
     transition: transform 400ms cubic-bezier(.45,.97,.68,2.48), backgroun-color .100ms linear, opacity 400ms ease-in;
-    border-radius: 10%;
     margin-left: 0%;
     margin-bottom: 30px;
+    margin-top: 100px;
     width: 120px;
     font-size: 17px;
 }
