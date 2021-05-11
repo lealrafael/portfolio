@@ -14,3 +14,7 @@
     height: 80px;
     align-items: center;
 } 
+
+.header .img{
+    height: 120%;
+}
